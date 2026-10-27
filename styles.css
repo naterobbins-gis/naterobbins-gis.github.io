@@ -16,6 +16,17 @@
 
 }
 
+.subtitle {
+    color: var(--azure-light);
+    margin-bottom: 25px;
+}
+
+.secondary-button {
+    background: transparent;
+    border: 1px solid var(--azure-light);
+    margin-left: 12px;
+}
+
 body {
     margin: 0;
     font-family: "Segoe UI", sans-serif;
@@ -159,4 +170,5 @@ h1 {
         height: 220px;
     }
 }
+
 
