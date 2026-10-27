@@ -1,32 +1,3 @@
-:root {
-
-    --navy: #0b1220;
-
-    --slate-dark: #131d31;
-
-    --slate: #1f2a40;
-
-    --azure: #0078d4;
-
-    --azure-light: #42a5f5;
-
-    --white: #f8fafc;
-
-    --gray: #cbd5e1;
-
-}
-
-.subtitle {
-    color: var(--azure-light);
-    margin-bottom: 25px;
-}
-
-.secondary-button {
-    background: transparent;
-    border: 1px solid var(--azure-light);
-    margin-left: 12px;
-}
-
 body {
     margin: 0;
     font-family: "Segoe UI", sans-serif;
@@ -186,3 +157,41 @@ h1 {
 
 }
 
+:root {
+
+    --navy: #0b1220;
+
+    --slate-dark: #131d31;
+
+    --slate: #1f2a40;
+
+    --azure: #0078d4;
+
+    --azure-light: #42a5f5;
+
+    --white: #f8fafc;
+
+    --gray: #cbd5e1;
+
+}
+
+.subtitle {
+    color: var(--azure-light);
+    margin-bottom: 25px;
+}
+
+.secondary-button {
+    background: transparent;
+    border: 1px solid var(--azure-light);
+    margin-left: 12px;
+}
+
+.card img {
+
+    width: 100%;
+
+    border-radius: 8px;
+
+    margin-bottom: 15px;
+
+}
