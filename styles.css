@@ -1,9 +1,27 @@
+:root {
+
+    --navy: #0b1220;
+
+    --slate-dark: #131d31;
+
+    --slate: #1f2a40;
+
+    --azure: #0078d4;
+
+    --azure-light: #42a5f5;
+
+    --white: #f8fafc;
+
+    --gray: #cbd5e1;
+
+}
+
 body {
     margin: 0;
-    font-family: "Segoe UI", Arial, sans-serif;
-    background-color: #0f172a;
-    color: #f8fafc;
-    line-height: 1.6;
+    font-family: "Segoe UI", sans-serif;
+    background: var(--navy);
+    color: var(--white);
+    line-height: 1.7;
 }
 
 header {
