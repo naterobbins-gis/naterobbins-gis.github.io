@@ -304,3 +304,12 @@ a:active {
     margin: 20px auto;
     border-radius: 8px;
 }
+
+nav {
+    flex-direction: column;
+}
+
+nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+}
