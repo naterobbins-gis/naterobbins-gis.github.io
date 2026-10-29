@@ -57,7 +57,7 @@ nav a:hover {
 
 .button {
     display: inline-block;
-    margin-top: 25px;
+    margin-top: 15px;
     padding: 12px 24px;
     background: #2563eb;
     color: white;
@@ -85,17 +85,15 @@ nav a:hover {
     background: #1e293b;
     padding: 25px;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
+
 .card ul {
     padding-left: 20px;
 }
 
 .card li {
     margin-bottom: 8px;
-}
-
-.button {
-    margin-top: 15px;
 }
 
 h1 {
@@ -278,10 +276,6 @@ h1 {
 
 .card a:hover {
     text-decoration: underline;
-}
-
-.card {
-    margin-bottom: 20px;
 }
 
 a {
