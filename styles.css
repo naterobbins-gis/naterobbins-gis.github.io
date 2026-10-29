@@ -280,3 +280,16 @@ h1 {
 .card h3 {
     margin-top: 10px;
 }
+
+.card a {
+    color: #60a5fa;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    margin-bottom: 20px;
+}
